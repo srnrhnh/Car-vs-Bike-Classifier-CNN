@@ -33,7 +33,7 @@ This project focuses on developing a deep learning model using Convolutional Neu
    - Experiment with different CNN architectures (e.g., ResNet or EfficientNet) for potentially better performance.
    - Use a more diverse dataset and vehicle types to improve generalization for real-world scenarios.
 
-## Model Visualization 📈
+## APPLICATION 💫
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
     <tr>
         <th style="padding: 10px;">Hugging Face Application</th>
