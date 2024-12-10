@@ -34,6 +34,7 @@ This project focuses on developing a deep learning model using Convolutional Neu
    - Use a more diverse dataset and vehicle types to improve generalization for real-world scenarios.
 
 ## APPLICATION 💫
+You can view the model in action on Hugging Face by clicking the link below:
 <table style="width: 100%; text-align: center; border-collapse: collapse;">
     <tr>
         <th style="padding: 10px;">Hugging Face Application</th>
