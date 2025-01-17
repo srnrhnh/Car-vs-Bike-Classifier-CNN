@@ -41,7 +41,7 @@ You can view the model in action on Hugging Face by clicking the link below:
     </tr>
     <tr>
         <td style="padding: 10px;">
-            <a href="srnrhnh/Car_vs_Bike_Image_Prediction">
+            <a href="https://huggingface.co/spaces/srnrhnh/Car_vs_Bike_Image_Prediction">
                 <img src="https://img.shields.io/badge/View-Hugging%20Face-blue" alt="Hugging Face Application">
             </a>
         </td>
